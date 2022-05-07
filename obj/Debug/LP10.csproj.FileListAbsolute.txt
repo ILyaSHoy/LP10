@@ -1,0 +1,10 @@
+C:\Users\ILyaSHoy\source\repos\LP10\bin\Debug\LP10.exe.config
+C:\Users\ILyaSHoy\source\repos\LP10\bin\Debug\LP10.exe
+C:\Users\ILyaSHoy\source\repos\LP10\bin\Debug\LP10.pdb
+C:\Users\ILyaSHoy\source\repos\LP10\obj\Debug\LP10.csproj.AssemblyReference.cache
+C:\Users\ILyaSHoy\source\repos\LP10\obj\Debug\LP10.Form1.resources
+C:\Users\ILyaSHoy\source\repos\LP10\obj\Debug\LP10.Properties.Resources.resources
+C:\Users\ILyaSHoy\source\repos\LP10\obj\Debug\LP10.csproj.GenerateResource.cache
+C:\Users\ILyaSHoy\source\repos\LP10\obj\Debug\LP10.csproj.CoreCompileInputs.cache
+C:\Users\ILyaSHoy\source\repos\LP10\obj\Debug\LP10.exe
+C:\Users\ILyaSHoy\source\repos\LP10\obj\Debug\LP10.pdb
